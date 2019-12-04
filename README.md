@@ -10,7 +10,9 @@ Github on the other hand is the server that provides the git to function properl
 
 ---
 ## Initial Setup
-
+First, the user need to create a new directory first in the IDE. Using "mkdir (whatever)" After you create the directory then the user can intialize the folder
+In order to intiliaze the directory you need "git init" to initialize the file
+Afterward you can create a file by "touch (a files name)"
 
 
 ---
