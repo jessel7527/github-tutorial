@@ -17,7 +17,8 @@ Afterward you can create a file by "touch (a files name)"
 
 ---
 ## Repository Setup
-
+First, you go to the github website, Form there, you press the plus icon and create a new repository
+Then you go back to IDE, mkdir a directory git init and touch a file and then git remote add
 
 
 ---
