@@ -23,3 +23,8 @@ Then you go back to IDE, mkdir a directory git init and touch a file and then gi
 
 ---
 ## Workflow & Commands
+Edit you file in the working directory
+Stage your file afterward by using "git add filename" to the stage area
+Commit the file by ,"git commit-m"
+**Some commands are**
+git push- pushes the README.md to the clout
